@@ -1,4 +1,5 @@
 import unittest
+from example1.encoder import MorseEncoder
 
 class DecodeTest(unittest.TestCase):
     def setUp(self):
